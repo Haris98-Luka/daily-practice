@@ -1,0 +1,38 @@
+name: Daily Practice
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  practice:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate tasks
+        run: python generate_tasks.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "Haris Practice"
+          git config user.email "280769345+Haris98-Luka@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git diff --cached --quiet || git commit -m "Daily practice"
+
+      - name: Push changes
+        run: git push
