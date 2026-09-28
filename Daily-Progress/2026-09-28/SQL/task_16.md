@@ -6,7 +6,7 @@
 
 ## Task
 
-Create a Student table.
+Find students with marks greater than 80.
 
 ## Practice Status
 

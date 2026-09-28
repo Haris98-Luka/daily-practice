@@ -6,7 +6,7 @@
 
 ## Task
 
-Implement binary search.
+Delete an element from an array.
 
 ## Practice Status
 

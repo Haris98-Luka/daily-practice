@@ -1,4 +1,4 @@
-# Daily Practice Task 18
+# Daily Practice Task 3
 
 **Date:** 2026-09-28
 
@@ -6,7 +6,7 @@
 
 ## Task
 
-Update a student's marks.
+Find the maximum marks.
 
 ## Practice Status
 

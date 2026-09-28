@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 15
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Data-Structures
 
 ## Task
 
-Update a student's marks.
+Implement linear search.
 
 ## Practice Status
 

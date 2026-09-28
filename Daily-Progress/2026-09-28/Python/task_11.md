@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 11
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Python
 
 ## Task
 
-Update a student's marks.
+Write a program to count words in a sentence.
 
 ## Practice Status
 

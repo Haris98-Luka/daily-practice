@@ -1,4 +1,4 @@
-# Daily Practice Task 22
+# Daily Practice Task 29
 
 **Date:** 2026-09-28
 
@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to calculate the sum of array elements.
+Write a program to find the smallest element in an array.
 
 ## Practice Status
 

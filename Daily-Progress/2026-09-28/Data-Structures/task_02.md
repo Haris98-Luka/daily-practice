@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 2
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Data-Structures
 
 ## Task
 
-Update a student's marks.
+Implement stack using an array.
 
 ## Practice Status
 

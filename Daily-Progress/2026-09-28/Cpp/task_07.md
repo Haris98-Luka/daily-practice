@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 7
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Cpp
 
 ## Task
 
-Update a student's marks.
+Write a program to reverse a number.
 
 ## Practice Status
 

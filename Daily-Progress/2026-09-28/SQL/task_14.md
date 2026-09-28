@@ -6,7 +6,7 @@
 
 ## Task
 
-Find students with marks greater than 80.
+Display all students.
 
 ## Practice Status
 

@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 25
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Data-Structures
 
 ## Task
 
-Update a student's marks.
+Delete an element from an array.
 
 ## Practice Status
 

@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 23
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Python
 
 ## Task
 
-Update a student's marks.
+Write a program to remove duplicates from a list.
 
 ## Practice Status
 

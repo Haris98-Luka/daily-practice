@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 6
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Data-Structures
 
 ## Task
 
-Update a student's marks.
+Traverse a linked list.
 
 ## Practice Status
 

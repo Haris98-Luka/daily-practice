@@ -1,12 +1,12 @@
-# Daily Practice Task 18
+# Daily Practice Task 10
 
 **Date:** 2026-09-28
 
-**Category:** SQL
+**Category:** Cpp
 
 ## Task
 
-Update a student's marks.
+Write a program to count even and odd numbers.
 
 ## Practice Status
 
