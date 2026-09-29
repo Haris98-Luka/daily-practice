@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to check whether a number is palindrome.
+Write a program to count even and odd numbers.
 
 ## Practice Status
 
