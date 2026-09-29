@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to find the smallest element in an array.
+Write a program to calculate factorial of a number.
 
 ## Practice Status
 
