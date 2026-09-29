@@ -6,7 +6,7 @@
 
 ## Task
 
-Count nodes in a linked list.
+Insert an element into an array.
 
 ## Practice Status
 
