@@ -6,7 +6,7 @@
 
 ## Task
 
-Create a singly linked list.
+Delete an element from an array.
 
 ## Practice Status
 
