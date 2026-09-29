@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to swap two numbers.
+Write a program to calculate simple interest.
 
 ## Practice Status
 
