@@ -29,10 +29,13 @@ jobs:
           git config user.name "Haris Practice"
           git config user.email "280769345+Haris98-Luka@users.noreply.github.com"
 
-      - name: Commit changes
+      - name: Commit each task separately
         run: |
-          git add .
-          git diff --cached --quiet || git commit -m "Daily practice"
+          # Har changed/new file ke liye alag commit
+          git status --porcelain | while read -r status file; do
+            git add -- "$file"
+            git commit -m "Add task: $(basename "$file")"
+          done
 
       - name: Push changes
         run: git push
