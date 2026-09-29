@@ -6,7 +6,7 @@
 
 ## Task
 
-Traverse a linked list.
+Create a singly linked list.
 
 ## Practice Status
 
