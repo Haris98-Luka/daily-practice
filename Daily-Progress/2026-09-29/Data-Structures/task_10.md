@@ -6,7 +6,7 @@
 
 ## Task
 
-Implement binary search.
+Traverse a linked list.
 
 ## Practice Status
 
