@@ -6,7 +6,7 @@
 
 ## Task
 
-Implement stack using an array.
+Count nodes in a linked list.
 
 ## Practice Status
 
