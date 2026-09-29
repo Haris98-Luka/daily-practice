@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to find the smallest number in a list.
+Write a program to remove duplicates from a list.
 
 ## Practice Status
 
