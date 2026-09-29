@@ -6,7 +6,7 @@
 
 ## Task
 
-Count nodes in a linked list.
+Implement queue using an array.
 
 ## Practice Status
 
