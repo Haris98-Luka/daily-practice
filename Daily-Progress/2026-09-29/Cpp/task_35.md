@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to find the largest of three numbers.
+Write a program to calculate factorial of a number.
 
 ## Practice Status
 
