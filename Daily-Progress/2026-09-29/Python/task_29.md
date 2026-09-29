@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to check whether a number is prime.
+Write a program to calculate the average of numbers.
 
 ## Practice Status
 
