@@ -31,10 +31,9 @@ jobs:
 
       - name: Commit each task separately
         run: |
-          # Har changed/new file ke liye alag commit
-          git status --porcelain | while read -r status file; do
+          git ls-files --others --modified --exclude-standard | while read -r file; do
             git add -- "$file"
-            git commit -m "Add task: $(basename "$file")"
+            git commit -m "Add $(basename "$file") - $(dirname "$file")"
           done
 
       - name: Push changes
