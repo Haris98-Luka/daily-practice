@@ -6,7 +6,7 @@
 
 ## Task
 
-Find the average marks.
+Sort students by marks.
 
 ## Practice Status
 
