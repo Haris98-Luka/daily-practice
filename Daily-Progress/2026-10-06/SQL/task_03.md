@@ -6,7 +6,7 @@
 
 ## Task
 
-Count total students.
+Delete a student record.
 
 ## Practice Status
 
