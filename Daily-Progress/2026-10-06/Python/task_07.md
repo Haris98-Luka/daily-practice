@@ -6,7 +6,7 @@
 
 ## Task
 
-Write a program to find the largest number in a list.
+Write a program to calculate factorial.
 
 ## Practice Status
 
