@@ -1,0 +1,15 @@
+# Daily Practice Task 34
+
+**Date:** 2026-11-07
+
+**Category:** SQL
+
+## Task
+
+Delete a student record.
+
+## Practice Status
+
+- [ ] Started
+- [ ] Solved
+- [ ] Understood
