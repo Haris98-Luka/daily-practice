@@ -1,0 +1,15 @@
+# Daily Practice Task 17
+
+**Date:** 2026-11-12
+
+**Category:** Data-Structures
+
+## Task
+
+Count nodes in a linked list.
+
+## Practice Status
+
+- [ ] Started
+- [ ] Solved
+- [ ] Understood
